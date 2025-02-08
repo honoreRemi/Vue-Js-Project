@@ -1,0 +1,34 @@
+{
+    "title": "Question sur les fims et series",
+    "minimum_score": 4,
+    "success_message": "Félicitation! vous etes un véritable cinéphile !",
+    "failure_message": "Dommage! vous devez regarder plus de film et séries.",
+    "questions": [
+        {
+            "question": "Dans quel film trouve t-on le personnage de Jack Dawson?",
+            "choices": ["Titanic", "Le seigneur des Anneaux", "Inception", "Avatar"],
+            "correct_answer": "Titanic"
+        },
+        {
+            "question": "Quel série met en scène le personnage de Walter White?",
+            "choices": ["Breaking bad", "Strainger Things", "Game of Thrones", "The Walking Dead"],
+            "correct_answer": "Breaking bad"
+        },
+        {
+            "question": "Dans quel film Harry Potter rencontre-il pour la première fois Lord Voldemort?",
+            "choices": ["Harry Potter à l'école des sorciers",
+             "Harry Potter à la chambre des secrets",
+              "Harry Potter et le prisonnier d'azkaban",
+              "Harry Potter et la coupe de feu"],
+            "correct_answer": "Harry Potter à l'école des sorciers"
+        },
+        {
+            "question": "Quel est le nom de l'intelligence artificielle dans '2001: L'odysée de l'espace'?",
+            "choices": ["Hall 2000",
+             "Siri",
+              "Cortana",
+              "Jarvis"],
+            "correct_answer": "Hall 2000"
+        }
+    ]
+}
